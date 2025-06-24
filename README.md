@@ -1,7 +1,7 @@
 # Github-Actions Take home Assignment
 ##  GitHub Actions CI/CD Pipeline
 
-👉 **Open this to see successful actions: [related project](https://github.com/mayurminfy1/github_action-takehome/actions)**
+👉 **Open this to see successful actions: [Github Actions](https://github.com/mayurminfy1/github_action-takehome/actions)**
 
 
 A fully automated pipeline that builds, containers, and deploys a Node.js web app to an EC2 instance using GitHub Actions, Docker, and GitHub Container Registry (GHCR).
