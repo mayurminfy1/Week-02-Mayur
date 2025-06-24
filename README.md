@@ -1,4 +1,5 @@
-# Github-Actions Take home Assignment
+# Github-Actions(Take home and Class)
+
 ##  GitHub Actions CI/CD Pipeline
 
 👉 **Open this to see successful actions: [Github Actions](https://github.com/mayurminfy1/github_action-takehome/actions)**
@@ -160,7 +161,7 @@ You're now ready to apply this knowledge to real-world projects or take your Dev
 ---
 
 
-# Kubernetes- Takehome assignment
+# Kubernetes(Takehome assignment)
 #  MongoDB + Mongo Express Deployment on Kubernetes
 
 A complete setup of a MongoDB database and a Mongo Express web UI deployed on a Minikube cluster using Kubernetes best practices like `Secrets`, `ConfigMaps`, `Deployments`, and `Services`.
@@ -230,6 +231,19 @@ Expose services via LoadBalancer
 Real-world separation of backend and frontend via Services Summary
 
 ---
+
+# Kubernetes (Class Assignment)
+
+## 📸 Screenshots
+
+| Description                   | Preview |
+|-------------------------------|---------|
+| minikube start     | ![minikube start ](https://github.com/mayurminfy1/photos/blob/main/k8-day-1/Screenshot%202025-06-18%20093020.png?raw=true)  
+| logs and pod| ![logs and pod](https://github.com/mayurminfy1/photos/blob/main/k8-day-1/Screenshot%202025-06-18%20093045.png?raw=true) |
+| Kubectl describe pod     | ![describe](https://github.com/mayurminfy1/photos/blob/main/k8-day-1/Screenshot%202025-06-18%20093107.png?raw=true) |
+| Dashboard     | ![Dashboard](https://github.com/mayurminfy1/photos/blob/main/k8-day-1/Screenshot%202025-06-18%20092942.png?raw=true) |
+
+
 ---
 
 # Docker-Advanced Assignment
