@@ -214,7 +214,7 @@ A complete setup of a MongoDB database and a Mongo Express web UI deployed on a 
 ```
 ---
 
-## 🔗Summary
+## Summary
 
 This project demonstrates container orchestration using Kubernetes:
 
@@ -229,7 +229,7 @@ Real-world separation of backend and frontend via Services Summary
 ---
 ---
 
-# Docker Assignment
+# Docker-Advanced Assignment
 # Visitor Counter App using Node.js & Redis (Manual Docker Deployment)
 
 This is a simple two-tier web application that counts page visits using a Node.js server and a Redis database. Each time a user visits the site, the app increments the counter stored in Redis and displays the total number of visits.
